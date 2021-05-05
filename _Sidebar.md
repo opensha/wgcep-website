@@ -1,4 +1,4 @@
-[**WGCEP: Working Group on California Earthquake Probabilities**](Home)
+[![WGCEP: Working Group on California Earthquake Probabilities](resources/wgcep_logo_full.png)](Home)
 
 * **[Overview](Overview)**
 * **[Model Framework](Model-Framework)**
