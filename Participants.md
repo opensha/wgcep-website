@@ -1,4 +1,4 @@
-This page lists the WGCEP participants for UCERF3, and is out of date.
+This page lists the WGCEP participants for UCERF3, and may be out of date.
 
 ## Executive Committee (ExCom)
 
