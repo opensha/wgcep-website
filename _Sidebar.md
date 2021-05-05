@@ -1,18 +1,9 @@
-[![OpenSHA](resources/opensha_logo_small.png)](Home)
+[**WGCEP: Working Group on California Earthquake Probabilities**](Home)
 
-**Open**-Source **S**eismic **H**azard **A**nalysis (**OpenSHA**)
-
-* **[Applications](Applications)**
-* **Documentation**
-  * **[What is SHA?](Overview)**
-  * **[Tutorials & Guides](Tutorials)**
-  * **[Glossary](Glossary)**
-  * **[Publications](Publications)**
-* **[For Developers](Developers)**
-  * **[GitHub](https://github.com/opensha/)**
-* **[About](Home)**
-  * **[Goals](Goals)**
-  * **[Sponsors](Sponsors)**
-  * **[Contributors](Contributors)**
-  * **[License&mdash;Disclaimer](License-Disclaimer)**
-  * **[Contact](Home#contact-us)**
+* **[Overview](Overview)**
+* **[Model Framework](Model-Framework)**
+* **Model Versions**
+  * **[UCERF3](UCERF3)**
+  * **[UCERF2](https://www.scec.org/research/ucerf2)**
+* **[Current Participants](Participants)**
+* **[Meetings](Meetings-and-Workshops)
