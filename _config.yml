@@ -3,7 +3,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
 
-title: OpenSHA
-description: Open-Source Seismic Hazard Analysis
+title: WGCEP
+description: Working Group on California Earthquake Probabilities
 logo: resources/opensha_logo.png
 show_downloads: false
