@@ -72,7 +72,7 @@
         {{ content }}
 
         {% capture foot_include %}{% include_relative _Footer.md %}{% endcapture %}
-	<p><small>{{ foot_include | markdownify }}</small></p>
+	<p style="display: flex; justify-content: space-between"><small>{{ foot_include | markdownify }}</small></p>
 
       </section>
       <footer>
