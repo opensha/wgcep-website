@@ -13,9 +13,9 @@
     <meta name="theme-color" content="#ffffff">
 
     {% if page.path contains "index" %}
-      <title>Open-Source Seismic Hazard Analysis | OpenSHA</title>
+      <title>WGCEP | Working Group on California Earthquake Probabilities</title>
     {% else %}
-      <title>{{ page.path | remove: ".md" }} | OpenSHA</title>
+      <title>{{ page.path | remove: ".md" }} | WGCEP</title>
     {% endif %}
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -73,7 +73,6 @@
 
         {% capture foot_include %}{% include_relative _Footer.md %}{% endcapture %}
 	<p><small>{{ foot_include | markdownify }}</small></p>
-	<p><small>This website is generated automatically from the <a href="https://github.com/opensha/opensha-commons/wiki">OpenSHA wiki on GitHub</a>, and is powered by GitHub Pages and Jekyll</small></p>
 
       </section>
       <footer>
