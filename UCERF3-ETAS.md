@@ -1,0 +1,56 @@
+## Electronic Supplements
+
+### [*BSSA* Paper (2017)](http://www.bssaonline.org/content/early/2017/02/24/0120160173.abstract) Scenario Simulations
+
+*(raw simulation data is also available in binary files at each link, look for results\*.bin. see format information [below](#simulation-data-informationformats))*
+
+*   Bombay Beach M4.8: [Full TD](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_24-bombay_beach_m4pt8-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14-noSpont) [No ERT](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_24-bombay_beach_m4pt8-10yr-no_ert-subSeisSupraNucl-gridSeisCorr-noSpont)
+*   Central Valley M5: [Full TD](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_28-central_valley_m5p0-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14) [No ERT](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_28-central_valley_m5p0-10yr-no_ert-subSeisSupraNucl-gridSeisCorr)
+*   HaywiredM7pt1: [Full TD](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_06_15-haywired_m7-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14) [No ERT](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_06_15-haywired_m7-10yr-no_ert-subSeisSupraNucl-gridSeisCorr)
+*   MojaveM5: [Full TD](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_19-mojave_m5-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14) [No ERT](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_22-mojave_m5-10yr-no_ert-subSeisSupraNucl-gridSeisCorr)
+*   MojaveM5.5: [Full TD](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_19-mojave_m5p5-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14) [No ERT](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_22-mojave_m5p5-10yr-no_ert-subSeisSupraNucl-gridSeisCorr)
+*   MojaveM6.3_FSS: [Full TD](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_19-mojave_m6pt3_fss-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14) [No ERT](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_22-mojave_m6pt3_fss-10yr-no_ert-subSeisSupraNucl-gridSeisCorr)
+*   MojaveM6.3_PtSrc: [Full TD](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_19-mojave_m6pt3_ptsrc-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14) [No ERT](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_22-mojave_m6pt3_ptsrc-10yr-no_ert-subSeisSupraNucl-gridSeisCorr)
+*   MojaveM7: [Full TD](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_19-mojave_m7-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14) [No ERT](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_22-mojave_m7-10yr-no_ert-subSeisSupraNucl-gridSeisCorr)
+*   MojaveM7.4: [Full TD](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_24-mojave_m7pt4-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14) [No ERT](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_24-mojave_m7pt4-10yr-no_ert-subSeisSupraNucl-gridSeisCorr)
+*   MojaveM7.8: [Full TD](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_24-mojave_m7pt8-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14) [No ERT](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_24-mojave_m7pt8-10yr-no_ert-subSeisSupraNucl-gridSeisCorr)
+*   SAF_PeninsulaM5pt5: [Full TD](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_25-saf_peninsula_m5p5-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14) [No ERT](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_25-saf_peninsula_m5p5-10yr-no_ert-subSeisSupraNucl-gridSeisCorr)
+*   SAF_PeninsulaM6pt3: [Full TD](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_25-saf_peninsula_m6p3-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14) [No ERT](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_25-saf_peninsula_m6p3-10yr-no_ert-subSeisSupraNucl-gridSeisCorr)
+*   SAF_PeninsulaM7: [Full TD](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_25-saf_peninsula_m7-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14) [No ERT](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_25-saf_peninsula_m7-10yr-no_ert-subSeisSupraNucl-gridSeisCorr)
+*   San Jacinto (Borrego) M5pt5: [Full TD](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_25-san_jacinto_0_m5p5-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14) [No ERT](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_25-san_jacinto_0_m5p5-10yr-no_ert-subSeisSupraNucl-gridSeisCorr)
+*   SurpriseValley5pt0: [Full TD](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_25-surprise_valley_5p0-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14) [No ERT](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_25-surprise_valley_5p0-10yr-no_ert-subSeisSupraNucl-gridSeisCorr)
+*   SurpriseValley5pt5: [Full TD](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_28-surprise_valley_5p5-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14) [No ERT](http://opensha.usc.edu/ftp/UCERF3-ETAS/scenarios/2016_02_28-surprise_valley_5p5-10yr-no_ert-subSeisSupraNucl-gridSeisCorr)
+
+### [*SRL* Paper (2017)](https://pubs.geoscienceworld.org/ssa/srl/article-abstract/88/5/1259/354096) Simulation Data
+
+*(direct links to binary files, some very large (>40 GB). see format information [below](#simulation-data-informationformats))*
+
+*   Parkfield M6, 100k each (200k gridded), M≥2.5 descendant events: [Full TD](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2017_04_13-parkfield-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14-noSpont/results_descendants.bin) [No ERT](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2017_04_13-parkfield-10yr-no_ert-subSeisSupraNucl-gridSeisCorr-noSpont/results_descendants.bin) [Gridded Only](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2017_04_13-parkfield-10yr-gridded-only/results_descendants.bin)
+*   Bombay Beach M4.8, 100k each, M≥2.5 descendant events: [Full TD](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2016_08_31-bombay_beach_m4pt8-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14-combined-plus300kNoSpont/results_descendants.bin) [No ERT](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2016_10_27-bombay_beach_m4pt8-10yr-no_ert-subSeisSupraNucl-gridSeisCorr-noSpont-combined/results_descendants.bin)
+*   Bombay Beach 2016 Swarm, 100k each, M≥2.5 descendant events: [Full TD](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2016_10_25-2016_bombay_swarm-24yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14-noSpont-combined/results.bin) [No ERT](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2016_10_27-2016_bombay_swarm-10yr-no_ert-subSeisSupraNucl-gridSeisCorr-noSpont-combined/results.bin)
+*   San Jacinto M4.8, 100k each, M≥2.5 descendant events: [Full TD](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2016_11_02-san_jacinto_0_m4p8-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14-noSpont-combined/results_descendants.bin) [No ERT](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2016_11_02-san_jacinto_0_m4p8-10yr-no_ert-subSeisSupraNucl-gridSeisCorr-noSpont-combined/results_descendants.bin)
+*   SAF Mojave M7, 100k each, M≥5 all events (including spontaneous): [Full TD](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2016_02_19-mojave_m7-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14-combined100k/results_m5_preserve.bin) [No ERT](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2016_02_22-mojave_m7-10yr-no_ert-subSeisSupraNucl-gridSeisCorr-combined100k/results_m5_preserve.bin)
+
+### [*Earthquake Spectra* Paper (2017)](http://www.earthquakespectra.org/doi/abs/10.1193/011817EQS017M) Simulation Data
+
+*(direct links to binary files, some very large (>40 GB). see format information [below](#simulation-data-informationformats))*
+
+*   Hayward "HayWired" M7.1, 100k each, M≥5 all events (including spontaneous): [Full TD](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2016_06_15-haywired_m7-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14-combined/results_m5_preserve.bin) [No ERT](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2016_06_15-haywired_m7-10yr-no_ert-subSeisSupraNucl-gridSeisCorr-combined/results_m5_preserve.bin)
+*   Bombay Beach M4.8, 100k each, M≥5 all events (including spontaneous): [Full TD](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2016_08_31-bombay_beach_m4pt8-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14-combined/results_m5_preserve.bin) [No ERT](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2016_11_22-bombay_beach_m4pt8-10yr-no_ert-subSeisSupraNucl-gridSeisCorr/results_m5_preserve.bin)
+*   1000yr spontaneous (no scenario), 500 each, M≥4 all events: [Full TD](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2016_02_17-spontaneous-1000yr-scaleMFD1p14-full_td-subSeisSupraNucl-gridSeisCorr/results_m4.bin) [No ERT](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2016_02_11-spontaneous-1000yr-no_ert-subSeisSupraNucl-gridSeisCorr/results_m4.bin)
+*   1000yr spontaneous (no scenario), single catalog, M≥2.5 all events: [Full TD](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2016_02_17-spontaneous-1000yr-scaleMFD1p14-full_td-subSeisSupraNucl-gridSeisCorr/catalog_000.bin)
+
+### [*SRL* Paper (2018)](https://pubs.geoscienceworld.org/ssa/srl/article/530336/candidate-products-for-operational-earthquake) Simulation Data
+
+*(direct links to binary files, some very large (>40 GB). see format information [below](#simulation-data-informationformats))*
+
+This paper uses UCERF3-ETAS simulations from the 2017 Earthquake Spectra paper, links reproduced below for convenience:
+
+*   Hayward "HayWired" M7.1, 100k each, M≥2.5 descendant events: [Full TD](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2016_06_15-haywired_m7-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14-combined/results_descendants.bin) [No ERT](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2016_06_15-haywired_m7-10yr-no_ert-subSeisSupraNucl-gridSeisCorr-combined/results_descendants.bin) [Gridded Only](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2017_01_02-haywired_m7-10yr-gridded-only-200kcombined/results_descendents_combined.bin)
+*   1000yr spontaneous (no scenario), single catalog, M≥2.5 all events: [Full TD](http://opensha.usc.edu/ftp/kmilner/ucerf3/etas_published_results/2016_02_17-spontaneous-1000yr-scaleMFD1p14-full_td-subSeisSupraNucl-gridSeisCorr/catalog_000.bin)
+
+## Simulation Data Information/Formats
+
+Simulation data is stored in a binary format which is [described here](https://github.com/opensha/ucerf3-etas-launcher/blob/master/doc/output_file_formats.md).
+
+Certain fields reference the [UCERF3 Fault System Solution File Format](https://github.com/opensha/opensha-ucerf3/wiki/Fault-System-Solution), which is used as input to the simulations. The specific fault system solution used in all UCERF3-ETAS publications is available here: [UCERF3 Branch Averaged, UCERF3 Spatial Seismicity Branches](http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_SpatSeisU3_MEAN_BRANCH_AVG_SOL.zip)
