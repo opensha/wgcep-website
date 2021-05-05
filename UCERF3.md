@@ -1,4 +1,4 @@
-# The Third California Earthquake Rupture Forecast (UCERF3)
+## The Third California Earthquake Rupture Forecast (UCERF3)
 
 ![UCERF3 Postcard](resources/UCERF3_postcard.png)
 
