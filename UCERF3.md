@@ -34,4 +34,6 @@
 * Synoptic Overiew (listed at the top of this page)
 * [Operational Loss Modeling Based on UCERF3-ETAS (2017, Earthquake Spectra)](http://www.earthquakespectra.org/doi/abs/10.1193/011817EQS017M)
 * [Candidate OEF Products for the Haywired Earthquake Scenario (2018, SRL)](https://pubs.geoscienceworld.org/ssa/srl/article/530336/candidate-products-for-operational-earthquake)
+* [Operational Earthquake Forecasting during the 2019 Ridgecrest, California, Earthquake Sequence (2020, SRL)](https://pubs.geoscienceworld.org/ssa/srl/article/91/3/1567/582898)
+* [Pseudoprospective Evaluation of UCERF3‐ETAS Forecasts during the 2019 Ridgecrest Sequence (2020, SRL)](https://pubs.geoscienceworld.org/ssa/bssa/article/110/4/1799/588154)
 * [All Electronic Supplements](UCERF3-ETAS)
