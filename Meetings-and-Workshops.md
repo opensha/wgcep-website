@@ -24,5 +24,5 @@ All past and future meetings and workshops.
 | 04/06/2011  | 04/06/2011  | [UCERF3 Statewide Fault-Model & Paleoseismic Data Workshop (in SoCal)](https://www.scec.org/workshops/2011/ucerf3-paleoseismic)  | Mountain Vista Room, Kellogg West Conference Center, Pomona, CA |
 | 03/02/2011  | 03/03/2011  | [UCERF3 Workshop: Distribution of Slip in Large Earthquakes](https://www.scec.org/workshops/2011/ucerf-slip)  | USGS Menlo Park, CA |
 | 11/10/2010  | 11/12/2010  | [UCERF3 SRP Review](https://www.scec.org/workshops/2010/ucerf3-srp) | Beckman Institute Auditorium, California Institute of Technology |
-| 04/01/2010  | 04/02/2010  | Incorporating Geodetic Data into UCERF3  | Kellogg West Conference Center, Pomona, CA |
+| 04/01/2010  | 04/02/2010  | [Incorporating Geodetic Data into UCERF3](https://www.scec.org/workshops/2010/ucerf3-deformation) | Kellogg West Conference Center, Pomona, CA |
 | 12/01/2009  | 12/02/2009  | [UCERF3 Planning Meeting](https://www.scec.org/workshops/2009/ucerf) | Kellogg West Conference Center, Pomona, CA |
