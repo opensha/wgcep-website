@@ -1,4 +1,4 @@
-All past and future meetings and workshops.
+Past meetings and workshops related to UCERF3 development.
 
 | From | To | Title | Location |
 | --- | --- | --- | --- |
