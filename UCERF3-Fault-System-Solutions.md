@@ -4,15 +4,15 @@ UCERF3 data is stored in the [FaultSystemSolution](Fault-System-Solution) file f
 
 If you need results for one or more individual UCERF3 logic tree branches, you must use the UCERF3 Compound Fault System Solution file. This file can be downloaded here:
 
-​http://opensha.usc.edu/ftp/ucerf3_erf/full_ucerf3_compound_sol.zip
+[http://opensha.usc.edu/ftp/ucerf3_erf/full_ucerf3_compound_sol.zip](http://opensha.usc.edu/ftp/ucerf3_erf/full_ucerf3_compound_sol.zip)
 
 The file format is described [here](Fault-System-Solution#compound-fault-system-solution-files). It does not contain the grid sources xml file for each branch. If this is needed, you can use the extraction utility described below.
 
 If you need access to individual inversions for a single branch (UCERF3 averages 10 inversion runs per branch), you will need this file which contains rates.bin files for each run:
 
-​http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_WITH_IND_RUNS.zip
+[http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_WITH_IND_RUNS.zip](http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_WITH_IND_RUNS.zip)
 
-If you are interested in how the UCERF3 waterlevel affects results, you may also be interested in ​[this zip file](http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs/2013_05_10-ucerf3p3-production-10runs-bins.zip) which contains two files per inversion per branch. The *_run*.bin files contain the rates for each rupture, similar to the previous file. The *_run*_noMinRates.bin files contain the inverted rates before the waterlevel was added back in. To recover the waterlevel, subtract values from *_run*_noMinRates.bin from the *_run*.bin files. These files are in our [double array binary file format](Fault-System-Solution#double-array-binary-file).
+If you are interested in how the UCERF3 waterlevel affects results, you may also be interested in [this zip file](http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs/2013_05_10-ucerf3p3-production-10runs-bins.zip) which contains two files per inversion per branch. The *_run*.bin files contain the rates for each rupture, similar to the previous file. The *_run*_noMinRates.bin files contain the inverted rates before the waterlevel was added back in. To recover the waterlevel, subtract values from *_run*_noMinRates.bin from the *_run*.bin files. These files are in our [double array binary file format](Fault-System-Solution#double-array-binary-file).
 
 ## Single Solution Extraction Utility
 
@@ -40,13 +40,13 @@ Time independent hazard curves calculated with these solutions will differ from 
 
 They can be downloaded here:
 
-* Fault Model 3.1: ​http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_MEAN_BRANCH_AVG_SOL.zip
-* Fault Model 3.2: ​http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_2_MEAN_BRANCH_AVG_SOL.zip 
+* Fault Model 3.1: [http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_MEAN_BRANCH_AVG_SOL.zip](http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_1_MEAN_BRANCH_AVG_SOL.zip)
+* Fault Model 3.2: [http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_2_MEAN_BRANCH_AVG_SOL.zip](http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_FM3_2_MEAN_BRANCH_AVG_SOL.zip)
 
 Branch averaged solutions are also available for various subsets of the logic tree:
 
-* Each Fault Model/Deformation Model: ​http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs_fm_dm_sub_plots/
-* Each Fault Model/Deformation Model/Scaling Relationship: ​http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs_fm_dm_scale_sub_plots/ 
+* Each Fault Model/Deformation Model: [http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs_fm_dm_sub_plots/](http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs_fm_dm_sub_plots/)
+* Each Fault Model/Deformation Model/Scaling Relationship: [http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs_fm_dm_scale_sub_plots/](http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs_fm_dm_scale_sub_plots/)
 
 ## "True Mean" solution
 
@@ -54,6 +54,6 @@ A different type of branch averaged solution, the "true mean" solution, is also 
 
 Note: These solutions are not compatible with time dependent UCERF3 calculations as multiple instances of each subsection may exist, resulting in rate partitioning between instances and incorrect recurrence intervals for renewal model calculations.
 
-* Both fault models combined: ​http://opensha.usc.edu/ftp/ucerf3_erf/mean_ucerf3_sol.zip
-* FM3.1 only: ​http://opensha.usc.edu/ftp/ucerf3_erf/FM3_1_mean_ucerf3_sol.zip
-* FM3.2 only: ​http://opensha.usc.edu/ftp/ucerf3_erf/FM3_2_mean_ucerf3_sol.zip 
+* Both fault models combined: [http://opensha.usc.edu/ftp/ucerf3_erf/mean_ucerf3_sol.zip](http://opensha.usc.edu/ftp/ucerf3_erf/mean_ucerf3_sol.zip)
+* FM3.1 only: [http://opensha.usc.edu/ftp/ucerf3_erf/FM3_1_mean_ucerf3_sol.zip](http://opensha.usc.edu/ftp/ucerf3_erf/FM3_1_mean_ucerf3_sol.zip)
+* FM3.2 only: [http://opensha.usc.edu/ftp/ucerf3_erf/FM3_2_mean_ucerf3_sol.zip](http://opensha.usc.edu/ftp/ucerf3_erf/FM3_2_mean_ucerf3_sol.zip)

@@ -108,7 +108,7 @@ Aki-Richards definition -->
 
 Some solutions will contain gridded seismicity magnitude frequency distributions. Here is an example XML file:
 
-*NOTE 1: UCERF3 uses the RELM region evenly discretized at 0.1 degrees for gridded seismicity. Due to the complexities involved in reproducing our gridding exactly, a file is posted here with grid node indexes and locations for this region: ​http://opensha.usc.edu/ftp/kmilner/ucerf3/relm_gridded_region.csv*
+*NOTE 1: UCERF3 uses the RELM region evenly discretized at 0.1 degrees for gridded seismicity. Due to the complexities involved in reproducing our gridding exactly, a file is posted here with grid node indexes and locations for this region: [http://opensha.usc.edu/ftp/kmilner/ucerf3/relm_gridded_region.csv](http://opensha.usc.edu/ftp/kmilner/ucerf3/relm_gridded_region.csv)*
 
 *NOTE 2: This file is now deprecated as it is very large and does not compress well. The newer version of the file, grid_sources.xml, just contains the evenlyGriddedGeographicRegion region element below and uses a [binary format](#grid-sources-binary-file).*
 
