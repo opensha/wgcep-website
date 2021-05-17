@@ -24,7 +24,7 @@
 * [Main Report (2014, BSSA)](http://bssa.geoscienceworld.org/content/104/3/1122.abstract?stoc); [pdf](resources/UCERF3-TI_2014_BSSA_Paper.pdf)
 * [USGS Open-File-Report (with appedices and electronic supplements)](https://pubs.usgs.gov/of/2013/1165/)
 
-[Implementation Instructions](https://github.com/opensha/opensha-ucerf3/wiki/UCERF3-Implementation-Instructions) (for technical users)
+[Implementation Instructions](UCERF3-Implementation-Instructions) (for technical users)
 
 ## Spatiotemporal Clustering Model
 
