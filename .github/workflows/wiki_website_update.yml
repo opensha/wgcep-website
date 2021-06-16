@@ -23,6 +23,6 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           wiki-repository: 'opensha/wgcep-website.wiki'
-          user-email: 'kmilner@usc.edu'
-          user-name: 'kevinmilner'
+          user-email: 'opensha.org@gmail.com'
+          user-name: 'opensha-website-robot'
           destination-branch: 'gh-pages'
