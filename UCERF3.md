@@ -31,7 +31,7 @@
 ### UCERF3-ETAS --- Including aftershocks and otherwise triggered events: 
 
 * [Main Report (2017, BSSA)](http://www.bssaonline.org/content/early/2017/02/24/0120160173.abstract)
-* Synoptic Overiew (listed at the top of this page)
+* [Synoptic Overview (SRL Publication)](http://srl.geoscienceworld.org/content/early/2017/07/07/0220170045)
 * [Operational Loss Modeling Based on UCERF3-ETAS (2017, Earthquake Spectra)](http://www.earthquakespectra.org/doi/abs/10.1193/011817EQS017M)
 * [Candidate OEF Products for the Haywired Earthquake Scenario (2018, SRL)](https://pubs.geoscienceworld.org/ssa/srl/article/530336/candidate-products-for-operational-earthquake)
 * [Operational Earthquake Forecasting during the 2019 Ridgecrest, California, Earthquake Sequence (2020, SRL)](https://pubs.geoscienceworld.org/ssa/srl/article/91/3/1567/582898)
