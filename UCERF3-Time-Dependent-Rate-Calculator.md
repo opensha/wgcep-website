@@ -42,4 +42,4 @@ The default output is in CSV format. A truncated example is shown below:
 | 1 | 1.581459767253252E-5 | 8.183057338995742E-5 | 1.6366784338797184E-5 | 7.906986217631751E-5 | 1.581459767253246E-5 |
 | 2 | 1.1240237590986677E-5 | 5.818032401879599E-5 | 1.1636403311906143E-5 | 5.619960869773788E-5 | 1.1240237590983228E-5 |
 
-Alternatively, if the "--binary" flag is supplied, the only equivalent annualized rates will be output in the [Double Array Binary File Format](Fault-System-Solution#double-array-binary-file). If multiple probability models are supplied, individual files will be output with the probability model name appended. 
+Alternatively, if the "--binary" flag is supplied, the only equivalent annualized rates will be output in the [Double Array Binary File Format](https://opensha.org/Legacy-Fault-System-Solution#double-array-binary-file). If multiple probability models are supplied, individual files will be output with the probability model name appended. 

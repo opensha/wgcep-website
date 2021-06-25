@@ -4,13 +4,13 @@ UCERF3 is a complex model comprised of many logic tree branches. Multiple ERFs a
 
 Class name: scratch.UCERF3.erf.FaultSystemSolutionERF
 
-This is the base class of all UCERF3 related ERFs, although it is also applicable to any [FaultSystemSolution](Fault-System-Solution). It allows you to browse for a solution zip file. Available solutions are [described here](UCERF3-Fault-System-Solutions).
+This is the base class of all UCERF3 related ERFs, although it is also applicable to any [FaultSystemSolution](https://opensha.org/Legacy-Fault-System-Solution). It allows you to browse for a solution zip file. Available solutions are [described here](UCERF3-Fault-System-Solutions).
 
 ## UCERF3 Single Branch ERF
 
 Class name: scratch.UCERF3.erf.UCERF3_CompoundSol_ERF
 
-This ERF allows you to select a single logic tree branch from the 1440 time independent UCERF3 logic tree branches for calculations. It will download the full UCERF3 compound fault system solution which contains results from each individual logic tree branch ([described here](Fault-System-Solution#compound-fault-system-solution-files), can be [downloaded ​here](http://opensha.usc.edu/ftp/ucerf3_erf/full_ucerf3_compound_sol.zip)). This can take some time (as it is an 810 MB file), so the file is cached in `~/.opensha/ucerf3_erf` where `~/` is the users home directory. This location can be changed by setting the "uc3.store" property at runtime.
+This ERF allows you to select a single logic tree branch from the 1440 time independent UCERF3 logic tree branches for calculations. It will download the full UCERF3 compound fault system solution which contains results from each individual logic tree branch ([described here](https://opensha.org/Legacy-Fault-System-Solution#compound-fault-system-solution-files), can be [downloaded ​here](http://opensha.usc.edu/ftp/ucerf3_erf/full_ucerf3_compound_sol.zip)). This can take some time (as it is an 810 MB file), so the file is cached in `~/.opensha/ucerf3_erf` where `~/` is the users home directory. This location can be changed by setting the "uc3.store" property at runtime.
 
 ## MeanUCERF3 ERF
 

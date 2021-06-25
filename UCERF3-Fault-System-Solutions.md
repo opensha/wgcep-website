@@ -1,4 +1,4 @@
-UCERF3 data is stored in the [FaultSystemSolution](Fault-System-Solution) file format. There are a variety of solution files available to users, and different applications require different files. These files can be used with the [UCERF3 ERFs](UCERF3-ERFs).
+UCERF3 data is stored in the [FaultSystemSolution](https://opensha.org/Legacy-Fault-System-Solution) file format. There are a variety of solution files available to users, and different applications require different files. These files can be used with the [UCERF3 ERFs](UCERF3-ERFs).
 
 ## Individual Branches - Compound Fault System Solution
 
@@ -6,13 +6,13 @@ If you need results for one or more individual UCERF3 logic tree branches, you m
 
 [http://opensha.usc.edu/ftp/ucerf3_erf/full_ucerf3_compound_sol.zip](http://opensha.usc.edu/ftp/ucerf3_erf/full_ucerf3_compound_sol.zip)
 
-The file format is described [here](Fault-System-Solution#compound-fault-system-solution-files). It does not contain the grid sources xml file for each branch. If this is needed, you can use the extraction utility described below.
+The file format is described [here](https://opensha.org/Legacy-Fault-System-Solution#compound-fault-system-solution-files). It does not contain the grid sources xml file for each branch. If this is needed, you can use the extraction utility described below.
 
 If you need access to individual inversions for a single branch (UCERF3 averages 10 inversion runs per branch), you will need this file which contains rates.bin files for each run:
 
 [http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_WITH_IND_RUNS.zip](http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs/2013_05_10-ucerf3p3-production-10runs_COMPOUND_SOL_WITH_IND_RUNS.zip)
 
-If you are interested in how the UCERF3 waterlevel affects results, you may also be interested in [this zip file](http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs/2013_05_10-ucerf3p3-production-10runs-bins.zip) which contains two files per inversion per branch. The *_run*.bin files contain the rates for each rupture, similar to the previous file. The *_run*_noMinRates.bin files contain the inverted rates before the waterlevel was added back in. To recover the waterlevel, subtract values from *_run*_noMinRates.bin from the *_run*.bin files. These files are in our [double array binary file format](Fault-System-Solution#double-array-binary-file).
+If you are interested in how the UCERF3 waterlevel affects results, you may also be interested in [this zip file](http://opensha.usc.edu/ftp/kmilner/ucerf3/2013_05_10-ucerf3p3-production-10runs/2013_05_10-ucerf3p3-production-10runs-bins.zip) which contains two files per inversion per branch. The *_run*.bin files contain the rates for each rupture, similar to the previous file. The *_run*_noMinRates.bin files contain the inverted rates before the waterlevel was added back in. To recover the waterlevel, subtract values from *_run*_noMinRates.bin from the *_run*.bin files. These files are in our [double array binary file format](https://opensha.org/Legacy-Fault-System-Solution#double-array-binary-file).
 
 ## Single Solution Extraction Utility
 
