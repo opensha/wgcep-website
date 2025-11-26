@@ -46,7 +46,7 @@
 
 This paper uses UCERF3-ETAS simulations from the 2017 Earthquake Spectra paper, links reproduced below for convenience:
 
-*   Hayward "HayWired" M7.1, 100k each, M≥2.5 descendant events: [Full TD](http://data.opensha.org/ftp/kmilner/ucerf3/etas_published_results/2016_06_15-haywired_m7-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14-combined/results_descendants.bin) [No ERT](http://data.opensha.org/ftp/kmilner/ucerf3/etas_published_results/2016_06_15-haywired_m7-10yr-no_ert-subSeisSupraNucl-gridSeisCorr-combined/results_descendants.bin) [Gridded Only](http://data.opensha.org/ftp/kmilner/ucerf3/etas_published_results/2017_01_02-haywired_m7-10yr-gridded-only-200kcombined/results_descendents_combined.bin)
+*   Hayward "HayWired" M7.1, 100k each, M≥5 descendant events: [Full TD](http://data.opensha.org/ftp/kmilner/ucerf3/etas_published_results/2016_06_15-haywired_m7-10yr-full_td-subSeisSupraNucl-gridSeisCorr-scale1.14-combined/results_descendants.bin) [No ERT](http://data.opensha.org/ftp/kmilner/ucerf3/etas_published_results/2016_06_15-haywired_m7-10yr-no_ert-subSeisSupraNucl-gridSeisCorr-combined/results_m5_preserve.bin) [Gridded Only](http://data.opensha.org/ftp/kmilner/ucerf3/etas_published_results/2017_01_02-haywired_m7-10yr-gridded-only-200kcombined/results_descendents_combined_m5_preserve_chain.bin)
 *   1000yr spontaneous (no scenario), single catalog, M≥2.5 all events: [Full TD](http://data.opensha.org/ftp/kmilner/ucerf3/etas_published_results/2016_02_17-spontaneous-1000yr-scaleMFD1p14-full_td-subSeisSupraNucl-gridSeisCorr/catalog_000.bin)
 
 ## Simulation Data Information/Formats
