@@ -6,7 +6,7 @@ For more information on the UCERF3 Time Dependent model, see the ​[Main Report
 
 **WARNING:** This is provided as a service and is not exhaustively tested. No warranty is expressed or implied and by downloading this software you agree to the ​[OpenSHA license/disclaimer](https://opensha.org/License-Disclaimer).
 
-**[Download Here](http://opensha.usc.edu/apps/opensha/UCERF3_TD_Extract/UCERF3_TD_Extract-1.3.1-10997-2015_06_05.jar)**
+**[Download Here](https://data.opensha.org/apps/opensha/old_releases/old_jnlp_releases/UCERF3_TD_Extract/UCERF3_TD_Extract-1.3.1-10997-2015_06_05.jar)**
 
 ### Command Line Arguments
 
